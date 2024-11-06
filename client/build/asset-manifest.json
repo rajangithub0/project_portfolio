@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f0a1e9ad.css",
+    "main.js": "/static/js/main.75718cac.js",
+    "static/js/453.acca0757.chunk.js": "/static/js/453.acca0757.chunk.js",
+    "static/media/Rajan.pdf": "/static/media/Rajan.2caa49e75563ca424189.pdf",
+    "static/media/Rajan.JPG": "/static/media/Rajan.110fd4c345dee3d14a36.JPG",
+    "index.html": "/index.html",
+    "main.f0a1e9ad.css.map": "/static/css/main.f0a1e9ad.css.map",
+    "main.75718cac.js.map": "/static/js/main.75718cac.js.map",
+    "453.acca0757.chunk.js.map": "/static/js/453.acca0757.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0a1e9ad.css",
+    "static/js/main.75718cac.js"
+  ]
+}
